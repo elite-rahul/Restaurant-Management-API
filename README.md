@@ -45,17 +45,17 @@ ____
 ____
 > - **[Aim :-](#heading-ids)** *This is basically good project for learning purpose springBoot basics, Annotation, API, spring mvc and CRUD Operation, crud Repository inbuilt method, and Custom Finder and Custom Query. In this project i just add Employye, add Address, get Employee, remove Employee By Id, update EmployeeInformation, get Address by id , Address by id, Address delete, Address add, Address update by ID and State, a lot of things i learned from this project.*
 
-## **[👨‍💻 Rakesh](#heading-ids)** ##
+## **[👨‍💻 Rahul](#heading-ids)** ##
 ____
 
-- Twitter: [@Rakesh.twitter](https://twitter.com/RakeshChau144)
+- Twitter: [@Rahul.twitter](https://twitter.com/RakeshChau144)
 
-- Github: [@Rakesh-Github](https://github.com/rakeshchau144)
+- Github: [@Rahul-Github](https://github.com/rakeshchau144)
 
 
 🤝 **Contributing**
 ___
-Contributions, Thanks to everyone , contributing with me and know about more myself [visit my profile](https://www.instagram.com/rakeshchaudhary_07/).
+Contributions, Thanks to everyone , contributing with me and know about more myself [visit my profile](https://www.instagram.com/elite_rahul/).
 
 **Show Your Support**
 ___
